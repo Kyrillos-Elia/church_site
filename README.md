@@ -149,11 +149,11 @@ You should see:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   🏥 Brothers of Lord - Pharmacy Management System 🏥        ║
+║   🏥 Brothers of Lord - Pharmacy Management System 🏥       ║
 ║                                                              ║
 ║   Backend is running successfully!                           ║
 ║   🌐 Open: http://localhost:3000                            ║
-║   📊 API Docs: http://localhost:3000/api/health            ║
+║   📊 API Docs: http://localhost:3000/api/health             ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
